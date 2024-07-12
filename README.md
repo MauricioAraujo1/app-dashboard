@@ -12,7 +12,7 @@
 
 <h2>💻 Descrição do Projeto</h2>
 
-Nesta aplicação, teremos um sistema de dashboard para o terminal usando typescript.. 
+Nesta aplicação, teremos um sistema de dashboard para o terminal usando typescript.
 
 <h2>🛠 Tecnologias</h2>
 
