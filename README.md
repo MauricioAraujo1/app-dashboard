@@ -12,7 +12,7 @@
 
 <h2>💻 Descrição do Projeto</h2>
 
-Nesta aplicação, teremos um sistema onde podemos listar livros de diversos temas, descrições e bar_code, criar novos livros, atualizar os temas, descrições e também deletar os livros que não iremos mais utilizar. 
+Nesta aplicação, teremos um sistema de dashboard para o terminal usando typescript.. 
 
 <h2>🛠 Tecnologias</h2>
 
